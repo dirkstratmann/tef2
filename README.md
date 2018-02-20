@@ -3,11 +3,12 @@
 
 or stay on this page to download the stand-alone version of TEF2.
 
-![alt text](https://github.com/bibip-impmc/tef2/blob/master/tef2.png)
+![alt text][logo]
+[logo]: https://github.com/bibip-impmc/tef2/blob/master/tef2.png
 
 
 
 
-© 2018 D. Stratmann, J. S. Pathmanathan, G. Postic, J. Rey, J. Chomilier  
-Institut de Minéralogie de Physique des Matériaux et de Cosmochimie (IMPMC)  
-UMR 7590 CNRS, MNHN IRD, Sorbonne Université, Paris, France
+###### © 2018 D. Stratmann, J. S. Pathmanathan, G. Postic, J. Rey, J. Chomilier  
+###### Institut de Minéralogie de Physique des Matériaux et de Cosmochimie (IMPMC)  
+###### UMR 7590 CNRS, MNHN IRD, Sorbonne Université, Paris, France
