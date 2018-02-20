@@ -10,4 +10,4 @@ or stay on this page to download the stand-alone version of TEF2.
 
 
 
-##### © 2018 D. Stratmann, J. S. Pathmanathan, G. Postic, J. Rey, J. Chomilier
+###### © 2018 D. Stratmann, J. S. Pathmanathan, G. Postic, J. Rey, J. Chomilier
