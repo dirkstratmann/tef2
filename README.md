@@ -8,5 +8,7 @@ or stay on this page to download the stand-alone version of TEF2.
 
 
 © 2018 D. Stratmann, J. S. Pathmanathan, G. Postic, J. Rey, J. Chomilier
-Institut de Minéralogie de Physique des Matériaux et de Cosmochimie (IMPMC)
-UMR 7590 CNRS, MNHN IRD, Sorbonne Université, Paris, France
+  Institut de Minéralogie de Physique des Matériaux et de Cosmochimie (IMPMC)
+  UMR 7590 CNRS, MNHN IRD, Sorbonne Université, Paris, France
+
+
