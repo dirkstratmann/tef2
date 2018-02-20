@@ -5,4 +5,4 @@
 
 
 
-© D. Stratmann, J. S. Pathmanathan, G. Postic, J. Rey, J. Chomilier
+© 2018 D. Stratmann, J. S. Pathmanathan, G. Postic, J. Rey, J. Chomilier
