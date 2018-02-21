@@ -10,4 +10,4 @@ or stay on this page to download the stand-alone version of TEF2 (compressed arc
 
 
 
-###### © 2018 Stratmann D, Pathmanathan JS, Postic G, Rey J, Chomilier J — IMPMC, Sorbonne Université
+© 2018 Stratmann D, Pathmanathan JS, Postic G, Rey J, Chomilier J — IMPMC, Sorbonne Université
