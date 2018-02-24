@@ -1,5 +1,5 @@
 # TEF2
-### Go to the webserver: [TEF2 @ RPBS Mobyle portal](http://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py?form=TEF#forms::TEF "TEF2 web server")
+### Go to the webserver: [TEF2 @ RPBS Mobyle portal](http://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py?form=TEF#forms::TEF "TEF2 webserver")
 
 or stay on this page to download the stand-alone version of TEF2 (compressed archive).
 
