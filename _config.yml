@@ -2,5 +2,3 @@ title: Tightened End Fragments v2
 description: A graph-based method for decomposing globular protein structures into closed loops
 theme: jekyll-theme-slate
 show_downloads: true
-plugins:
-  - jekyll-seo-tag
