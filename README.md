@@ -1,6 +1,6 @@
 # TEF2
 ### Go to the webserver: [TEF2 @ RPBS Mobyle portal](http://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py?form=TEF#forms::TEF "TEF2 webserver")
-<a href="http://example.com/" target="blank">Hello, world!</a>
+
 or stay on this page to download the stand-alone version of TEF2 (compressed archive).
 
 ![alt text][logo]
