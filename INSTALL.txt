@@ -7,4 +7,6 @@ The above command will:
 - create the './src/tef_search' binary
 - create a './build/' directory (which may be removed)
 
-Once installed, access help with: "./TEF2 --help"
+Once installed:
+- run "chmod +x TEF2"
+- access help with: "./TEF2 --help"
