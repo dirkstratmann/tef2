@@ -1,0 +1,10 @@
+NB: Remove any previous installation of TEF2:
+- 'tef_search' binary in ./src/
+
+Run installation script as root or superuser: "python setup.py install"
+
+The above command will:
+- create the './src/tef_search' binary
+- create a './build/' directory (which may be removed)
+
+Once installed, access help with: "./TEF2 --help"
